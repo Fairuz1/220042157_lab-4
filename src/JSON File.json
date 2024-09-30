@@ -1,0 +1,17 @@
+[
+{
+"date": "30-01-2017",
+"amount": -100,
+"description": "Deliveroo"
+},
+{
+"date": "30-01-2017",
+"amount": -50,
+"description": "Tesco"
+},
+{
+"date": "01-02-2017",
+"amount": 6000,
+"description": "Salary"
+}
+]
